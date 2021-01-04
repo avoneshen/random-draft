@@ -7,48 +7,48 @@ export interface Option {
 const OPTIONS: Array<Option> = [
   {
     id: 0,
-    name: "Space Marines",
-    imagePath: "Aquila.jpg",
+    name: "Team Name 1",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 1,
-    name: "Eldar",
-    imagePath: "AsuryaniRune.jpg",
+    name: "Team Name 2",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 2,
-    name: "Chaos Space Marines",
-    imagePath: "Star_of_Chaos.jpg",
+    name: "Team Name 3",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 3,
-    name: "Orks",
-    imagePath: "Orks.jpg",
+    name: "Team Name 4",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 4,
-    name: "Imperial Guard",
-    imagePath: "Astra_Militarum_Icon.jpg",
+    name: "Team Name 5",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 5,
-    name: "Tau",
-    imagePath: "T'au_Empire_Icon.jpg",
+    name: "Team Name 6",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 6,
-    name: "Necrons",
-    imagePath: "Ankh_Triarch.jpg",
+    name: "Team Name 7",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 7,
-    name: "Sisters of Battle",
-    imagePath: "Adeptus_Sororitas_Icon.jpg",
+    name: "Team Name 8",
+    imagePath: "Placeholder.jpg",
   },
   {
     id: 8,
-    name: "Dark Eldar",
-    imagePath: "DrukhariRune.jpg",
+    name: "Team Name 9",
+    imagePath: "Placeholder.jpg",
   },
 ];
 
